@@ -1,2 +1,2 @@
-# Kovalenko676.guthub.io
+# Kovalenko676.github.io
 Первый публикационный сайт
